@@ -70,19 +70,5 @@ def main():
              print("invalid choice")
              
     conn.close()
-             
-             
-             
-             
-             
-             
-                                   
-         
-         
-
-
-
-
-
 if __name__ == "__main__":
     main()
