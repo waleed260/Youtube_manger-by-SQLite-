@@ -37,12 +37,6 @@ def Delete_Videos(video_id):
     cursor.execute("DELETE FROM videos where id = ?",(video_id,))
     conn.commit()
     
-    
- 
-
- 
- 
- 
 def main():
     while True:
          print("\n Youtube manager app with DB")
