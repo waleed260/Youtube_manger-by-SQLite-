@@ -121,6 +121,24 @@ except ValueError:
     print("Invalid input! Please enter a number.")
     return
 
+    💾 4. Backup Your Database
+
+You can easily back up your database by copying the .db file:
+
+cp youtube_videos.db backup_youtube_videos.db
+
+🌟 5. Possible Future Enhancements
+
+Add search functionality by video name.
+
+Export the video list to a CSV or JSON file.
+
+Use argparse to make it runnable with command-line options.
+
+Add timestamps for when each video was added.
+
+Build a simple Tkinter or Flask web interface for GUI lovers.
+
 
 
 
